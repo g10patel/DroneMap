@@ -5,7 +5,7 @@
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>ur app uses bluetooth to find, connect and transfer data between different devices</string>
 	<key>DJISDKAppKey</key>
-	<string>d0349905ecf248cdc90732b9</string>
+	<string>Please Enter Your App Key Here</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
